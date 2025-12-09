@@ -11,6 +11,7 @@ This repository contains 9 practical programs implementing fundamental predictiv
 - Generated monthly revenue trend visualizations
 - Conducted customer behavior analysis: unique customers, repeat customer percentage, country-wise segmentation
 - Created comprehensive sales performance dashboards with heatmaps and bar charts
+  
 
 **Screenshot**
 
